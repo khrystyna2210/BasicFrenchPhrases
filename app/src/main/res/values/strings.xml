@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basic French Phrases</string>
+    <string name="doyouspeakenglish">Do you speak english?</string>
+    <string name="goodevening">Good evening</string>
+    <string name="hello">Hello</string>
+    <string name="howareyou">How are you?</string>
+    <string name="ilivein">I live in</string>
+    <string name="mynameis">My name is</string>
+    <string name="please">Please</string>
+    <string name="welkome">Welcome</string>
+    <string name="do_you_speak_n_english">Do you speak\n english?</string>
+</resources>
